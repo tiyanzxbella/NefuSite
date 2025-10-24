@@ -1,0 +1,16 @@
+{
+  "name": "nefu-project",
+  "version": "1.0.0",
+  "description": "A super-efficient proxy and CDN service using GitHub as a backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "formidable": "^3.5.1"
+  }
+}
