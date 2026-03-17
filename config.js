@@ -4,5 +4,5 @@ module.exports = {
   profilePicture: "https://files.catbox.moe/zxtkum.jpg",
   profileBanner: "https://files.catbox.moe/zxtkum.jpg",
   aboutText: "A personal project for file hosting and URL shortening, built with simplicity and efficiency in mind.",
-  backgroundImage: "https://cdn.nefyu.my.id/1lsq.webp"
+  backgroundImage: "https://files.catbox.moe/zxtkum.jpg"
 };
